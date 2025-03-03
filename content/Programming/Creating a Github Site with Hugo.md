@@ -2,7 +2,7 @@
 description: (OLD) A little guide/story of how I made this site
 date: 2025-02-24
 ---
-*This page is sort of outdated, it was the original way I was developing and deploying the website. It was originally called "This Website" and I was discussing how I built this website. I now use Obsidian to publish this site: [[Using Obsidian, Quartz, and Github Pages to Setup a Simple Static Website]].*
+*This page is sort of outdated, it was the original way I was developing and deploying the website. It was originally called "This Website" and I was discussing how I built this website. I now use Obsidian to publish this site: [[Using Obsidian, Quartz, and Github Pages to Setup a Simple Static Website]].* Here is the [link](https://jcorrell35.github.io/life-repository) to my old website if you are curious.
 
 This website is built with [Hugo](https://gohugo.io), using the [Terminal](https://github.com/panr/hugo-theme-terminal/) theme.
 
