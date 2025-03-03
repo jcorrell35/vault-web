@@ -4,20 +4,23 @@ date: 2025-02-28
 title: Welcome to My Site
 ---
 Welcome to my page! Hi, my name is Jarrod. I have made this site for a few different reasons. I wanted to have a place where all of my Wife and I’s adventures are, memories, projects that I/we have worked on, my music, other art, lots of pictures, and to also write some helpful/teaching articles on certain topics.
-### PROGRAMMING
-- [CAPTR - A game made with React (Frontend) and Google Firebase (Backend)](https://github.com/jcorrell35/captr-game/) 
-- [[Creating a Github Site with Hugo]]. 
+### PROGRAMMING PORTFOLIO
 - [[A More Productive Setup with Stage Manager]]
+- [[Creating a Github Site with Hugo]].
 - [[Using Obsidian, Quartz, and Github Pages to Setup a Simple Static Website]]
 - [[Vim Quick Start]]
+- [CAPTR - A game made with React (Frontend) and Google Firebase (Backend)](https://github.com/jcorrell35/captr-game/) 
 * [Basic Github Repo Setup]()
 * Automator/Better Touch Tool
 	* Option + Shift + S Captures the full screen and moves the files in your screenshots folder into your photo album. Move the files into another screenshot folder to avoid duplicate photos popup from Photos upload.
     * Use BetterTouchTool to assign the Keyboard Shortcut to Run the Automation.
+### MUSIC PORTFOLIO
+* [[Music Portfolio]]
+* [[Production Tips]]
 ### TRAVELING
-* [[7.1.2021 - 8.6.2021 (2021 Roadtrip)]]
-* [[8.7.2021 - 8.8.2021 (2021 Roadtrip)]] 
-* [[8.9.2021 (2021 Roadtrip)]] 
+* [[7.1.2021 - 8.6.2021 (2021 Roadtrip)]]  
+* [[8.7.2021 - 8.8.2021 (2021 Roadtrip)]]  
+* [[8.9.2021 (2021 Roadtrip)]]  
 - 8/10/21 - 8/11/21 (2021 Roadtrip) (Our first time in Colorado!)
 * 8/12/21 - 8/15/21 (2021 Roadtrip)(Arizona and Utah)
 * 8/16/21 - 8/17/21 (2021 Roadtrip) (Wyoming and sort of Montana)
@@ -69,23 +72,16 @@ Welcome to my page! Hi, my name is Jarrod. I have made this site for a few diffe
 	* 5-year anniversary
 	* Great Sand Dunes
 	* We got our wedding rings
-### MUSIC PORTFOLIO
-* [[Music Portfolio]]
-* [[Production Tips]]
-* #### Music Collection
-	* Overall Top Listens (All-Time)
-		* Album Cover	
-		* Album Names
-		* Release Date
-		* Favorite Songs on each album
-	* Overall Top Listens (1960s)
-	* Overall Top Listens (1970s)
-	* Overall Top Listens (1980s)
-	* Overall Top Listens (1990s)
-	* Overall Top Listens (2010s)
-	* Overall Top Listens (2020s)
-	* [[2024 Listens]]
-	* [[2025 Listens]]
+### MUSIC COLLECTION
+* Overall Top Listens (All-Time)
+* Overall Top Listens (1960s)
+* Overall Top Listens (1970s)
+* Overall Top Listens (1980s)
+* Overall Top Listens (1990s)
+* Overall Top Listens (2010s)
+* Overall Top Listens (2020s)
+* [[2024 Listens]]
+* [[2025 Listens]]
 ### COOKING
 * [[New Haven Pizza]]
 * [[New York Bagels]]
@@ -96,4 +92,3 @@ Welcome to my page! Hi, my name is Jarrod. I have made this site for a few diffe
 * Van Conversion
 * Garden Bed
 * Bird House
-
