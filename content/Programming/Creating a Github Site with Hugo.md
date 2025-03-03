@@ -12,13 +12,13 @@ For my site I went with the Terminal theme. I also decided to use the yaml forma
 
 #### Usual setup for a project looks something like this:
 ----------
-==`hugo new site quickstart && cd quickstart`==
+> `hugo new site quickstart && cd quickstart`
 
-==`git init`==
+> `git init`
 
-==`git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke`==
+> `git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke`
 
-==`echo "theme = 'ananke'" >> hugo.yaml`==
+> `echo "theme = 'ananke'" >> hugo.yaml`
 
 I ran into some issues using this method when it came to deploying the site to GitHub. Therefore I decided to go with a different method for implementing the theme. 
 
@@ -33,16 +33,16 @@ I ran into some issues using this method when it came to deploying the site to G
 ![MenuCode](../../images/menucode.png#img.center)
 
 **I applied the following code to the hugo.yaml file:**
-==`centerTheme = "true"`==
+> `centerTheme = "true"`
 
 **I also added a taxonomy called "places to be able to organize posts by location/state. This is also done inside the hugo.yaml file:**
 
 ![Taxonomies](../../images/taxonomies.png#img.center)
 
 **Finally, to run the website locally on your machine you can run the following code:**
-==`hugo server --buildDrafts`==
+> `hugo server --buildDrafts`
 
 *I use the option --buildDrafts to build all blog posts no matter what the status of the draft property is in the file.*
 
 **You can set the draft property to true so your post isn't live until you change the value.**
-==`draft: true`==
+> `draft: true`
