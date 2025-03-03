@@ -9,6 +9,7 @@ Welcome to my page! Hi, my name is Jarrod. I have made this site for a few diffe
 - [[Creating a Github Site with Hugo]].
 - [[Using Obsidian, Quartz, and Github Pages to Setup a Simple Static Website]]
 - [[Vim Quick Start]]
+
 - [CAPTR - A game made with React (Frontend) and Google Firebase (Backend)](https://github.com/jcorrell35/captr-game/) 
 * [Basic Github Repo Setup]()
 * Automator/Better Touch Tool
@@ -71,7 +72,7 @@ Welcome to my page! Hi, my name is Jarrod. I have made this site for a few diffe
 * February 2025
 	* 5-year anniversary
 	* Great Sand Dunes
-	* We got our wedding rings
+	* Wedding Rings
 ### MUSIC COLLECTION
 * Overall Top Listens (All-Time)
 * Overall Top Listens (1960s)
