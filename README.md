@@ -9,6 +9,12 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
+My Notes:
+Deploying this site (it only works if I do this for some reason)
+
+> npx quartz sync
+> git push -u origin main
+> git push -u origin v4
 ## Sponsors
 
 <p align="center">
