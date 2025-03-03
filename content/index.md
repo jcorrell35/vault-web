@@ -5,8 +5,8 @@ title: Welcome to My Site
 ---
 Welcome to my page! Hi, my name is Jarrod. I have made this site for a few different reasons. I wanted to have a place where all of my Wife and I’s adventures are, memories, projects that I/we have worked on, my music, other art, lots of pictures, and to also write some helpful/teaching articles on certain topics.
 ### PROGRAMMING
-- [CAPTR - A game made with React (Frontend) and Google Firebase (Backend)](https://github.com/jcorrell35/captr-game/)
-- [[Creating a Github Site with Hugo]]
+- [CAPTR - A game made with React (Frontend) and Google Firebase (Backend)](https://github.com/jcorrell35/captr-game/) 
+- [[Creating a Github Site with Hugo]]. 
 - [[A More Productive Setup with Stage Manager]]
 - [[Using Obsidian, Quartz, and Github Pages to Setup a Simple Static Website]]
 - [[Vim Quick Start]]

@@ -12,13 +12,13 @@ For my site I went with the Terminal theme. I also decided to use the yaml forma
 
 #### Usual setup for a project looks something like this:
 ----------
-> `hugo new site quickstart && cd quickstart`
+> `hugo new site quickstart && cd quickstart   
 
-> `git init`
+> `git init    
 
-> `git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke`
+> `git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke`   
 
-> `echo "theme = 'ananke'" >> hugo.yaml`
+> `echo "theme = 'ananke'" >> hugo.yaml   
 
 I ran into some issues using this method when it came to deploying the site to GitHub. Therefore I decided to go with a different method for implementing the theme. 
 
