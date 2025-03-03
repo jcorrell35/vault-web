@@ -1,7 +1,6 @@
 ---
 description: Top listens for releases that came out in 2025
 ---
-
 #### LPs
 
 | Artist     | Title          | Rating |

@@ -62,7 +62,7 @@ Welcome to my page! Hi, my name is Jarrod. I have made this site for a few diffe
 ### MUSIC PORTFOLIO
 * [[Music Portfolio]]
 * [[Production Tips]]
-* Music Collection
+* #### Music Collection
 	* Overall Top Listens (All-Time)
 		* Album Cover	
 		* Album Names
@@ -73,34 +73,16 @@ Welcome to my page! Hi, my name is Jarrod. I have made this site for a few diffe
 	* Overall Top Listens (1980s)
 	* Overall Top Listens (1990s)
 	* Overall Top Listens (2010s)
-	* Top Listens (2021)
-	* Top Listens (2022)
-	* Top Listens (2023)
-	* 2024 Listens
-	* Top Listens (2025)
-### MUSIC COLLECTION
-* Overall Top Listens (All-Time)
-	* Album Cover	
-	* Album Names
-	* Release Date
-	* Favorite Songs on each album
-* Overall Top Listens (1960s)
-* Overall Top Listens (1970s)
-* Overall Top Listens (1980s)
-* Overall Top Listens (1990s)
-* Overall Top Listens (2010s)
-* Overall Top Listens (2020s)
-- 2023 Listens
-* [[2024 Listens]]
-* [[2025 Listens]]
+	* Overall Top Listens (2020s)
+	* [[2024 Listens]]
+	* [[2025 Listens]]
 ### COOKING
 * [[New Haven Pizza]]
-* [[NY Bagels]]
+* [[New York Bagels]]
 ### PROGRAMMING
 - [[Creating a Github Site with Hugo]]
 - [[A More Productive Setup with Stage Manager]]
 - [[Using Obsidian, Quartz, and Github Pages to Setup a Simple Static Website]]
-- [[Final Cut Pro Free]]
 - [[Vim Quick Start]]
 * Basic Github Repo Setup
     * Initialization
