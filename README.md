@@ -15,6 +15,8 @@ Deploying this site (it only works if I do this for some reason)
 > npx quartz sync
 > git push -u origin main
 > git push -u origin v4
+
+[[index]]
 ## Sponsors
 
 <p align="center">
