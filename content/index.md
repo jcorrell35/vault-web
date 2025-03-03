@@ -4,6 +4,16 @@ date: 2025-02-28
 title: Welcome to My Site
 ---
 Welcome to my page! Hi, my name is Jarrod. I have made this site for a few different reasons. I wanted to have a place where all of my Wife and I’s adventures are, memories, projects that I/we have worked on, my music, other art, lots of pictures, and to also write some helpful/teaching articles on certain topics.
+### PROGRAMMING
+- [CAPTR - A game made with React (Frontend) and Google Firebase (Backend)](https://github.com/jcorrell35/captr-game/)
+- [[Creating a Github Site with Hugo]]
+- [[A More Productive Setup with Stage Manager]]
+- [[Using Obsidian, Quartz, and Github Pages to Setup a Simple Static Website]]
+- [[Vim Quick Start]]
+* [Basic Github Repo Setup]()
+* Automator/Better Touch Tool
+	* Option + Shift + S Captures the full screen and moves the files in your screenshots folder into your photo album. Move the files into another screenshot folder to avoid duplicate photos popup from Photos upload.
+    * Use BetterTouchTool to assign the Keyboard Shortcut to Run the Automation.
 ### TRAVELING
 * [[7.1.2021 - 8.6.2021 (2021 Roadtrip)]]
 * [[8.7.2021 - 8.8.2021 (2021 Roadtrip)]] 
@@ -79,22 +89,6 @@ Welcome to my page! Hi, my name is Jarrod. I have made this site for a few diffe
 ### COOKING
 * [[New Haven Pizza]]
 * [[New York Bagels]]
-### PROGRAMMING
-- [[Creating a Github Site with Hugo]]
-- [[A More Productive Setup with Stage Manager]]
-- [[Using Obsidian, Quartz, and Github Pages to Setup a Simple Static Website]]
-- [[Vim Quick Start]]
-* Basic Github Repo Setup
-    * Initialization
-    * Create in GitHub
-    * Copy Files
-    * Pulling
-    * Adding
-    * Committing
-    * Pushing
-* Automator/Better Touch Tool
-	* Option + Shift + S Captures the full screen and moves the files in your screenshots folder into your photo album. Move the files into another screenshot folder to avoid duplicate photos popup from Photos upload.
-    * Use BetterTouchTool to assign the Keyboard Shortcut to Run the Automation.
 ### FUN
 - [[Super Bowl LIX Drinking Game and Notes]]
 ### PROJECTS (HAVEN'T ADDED YET)
