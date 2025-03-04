@@ -1,3 +1,9 @@
+---
+title: Vim Quick Start
+draft: false
+description: Vim Quick Start for Noobies like me
+---
+
 
 | Key Bind | Command Action                                   |
 | -------- | ------------------------------------------------ |

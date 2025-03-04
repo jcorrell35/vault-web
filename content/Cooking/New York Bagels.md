@@ -5,7 +5,7 @@ title: New York Bagels
 draft: false
 ---
 
-![[.jpg]]
+![[bagels.jpg]]
 **Yield:** (8) Bagels
 **Hydration:** 58%
 

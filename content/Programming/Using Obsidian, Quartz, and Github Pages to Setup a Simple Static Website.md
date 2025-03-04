@@ -2,6 +2,7 @@
 description: A little guide/story of how I made this site
 date: 2025-02-28
 title: Using Obsidian, Quartz, and Github Pages to Setup a Simple Static Website
+draft: false
 ---
 This is the current way I am building this site. If you are interested in a different method, this was the old way that I built this site: [[Creating a Github Site with Hugo]]
 

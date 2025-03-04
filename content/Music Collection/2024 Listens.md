@@ -1,5 +1,7 @@
 ---
 description: Top listens for releases that came out in 2024
+title: 2024 Listens
+draft: false
 ---
 
 #### LPs

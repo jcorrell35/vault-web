@@ -1,5 +1,7 @@
 ---
 description: Top listens for releases that came out in 2025
+title: 2025 Listens
+draft: false
 ---
 #### LPs
 
