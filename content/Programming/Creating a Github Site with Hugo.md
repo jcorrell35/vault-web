@@ -14,37 +14,67 @@ For my site I went with the Terminal theme. I also decided to use the yaml forma
 
 #### Usual setup for a project looks something like this:
 ----------
-> `hugo new site quickstart && cd quickstart   
+```shell=
+hugo new site quickstart && cd quickstart
+git init
+git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
+echo "theme = 'ananke'" >> hugo.yaml
+```
 
-> `git init    
 
-> `git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke`   
+I ran into some issues using this method when it came to deploying the site to GitHub. Therefore I decided to go with a different method for implementing the theme. Which was copying the files from the theme folder into the base directory:  
+![Files](images/filesystem.png)  
+> **NOTE:** *This works, however if you want to change the theme at some point it becomes more difficult than just changing it in the hugo.yaml file.*
 
-> `echo "theme = 'ananke'" >> hugo.yaml   
+The next step was to implement a simple menu system for the website's navigation:  
+```yaml=
+menu:
+  main:
+    - name: Home
+      url: "/"
+      weight: 1
+    - name: Traveling
+      url: "/traveling/"
+      weight: 2
+    - name: Music
+      url: "/music/"
+      weight: 3
+    - name: Cooking
+      url: "/cooking/"
+      weight: 4
+    - name: Programming
+      url: "/programming/"
+      weight: 5
+    - name: Outdoors
+      url: "/outdoors/"
+      weight: 6
+    - name: Places
+      url: "/places/"
+      weight: 7
+```  
 
-I ran into some issues using this method when it came to deploying the site to GitHub. Therefore I decided to go with a different method for implementing the theme. 
+I applied the following code to the hugo.yaml file to center the page on the screen:  
+```yaml=
+centerTheme = "true"
+```
 
-**I ended up copying the files from the theme folder into the base directory:**
+The last thing I added was a taxonomy called places to be able to organize my posts by location/state. This is also done inside the hugo.yaml file:
+```yaml=
+taxonomies:
+	category: categories
+	place: places
+	tag: tags
+```
+  
+Finally, to run the website locally on your machine you can run the following code:  
+```shell=
+hugo server --buildDrafts
+```
 
-![Files](../../images/filesystem.png#img.center)
+> **NOTE:** *I used the option --buildDrafts to build all blog posts no matter what the status of the draft property is in the file.*
 
-*This works, however if you want to change the theme at some point it becomes more difficult than just changing it in the hugo.yaml file.*
+Also, you can set the draft property to true so your post isn't live until you change the value. 
+```yaml=
+draft: true
+```
 
-**I also implemented a simple menu system for the website's navigation:**
-
-![MenuCode](../../images/menucode.png#img.center)
-
-**I applied the following code to the hugo.yaml file:**
-> `centerTheme = "true"`
-
-**I also added a taxonomy called "places to be able to organize posts by location/state. This is also done inside the hugo.yaml file:**
-
-![Taxonomies](../../images/taxonomies.png#img.center)
-
-**Finally, to run the website locally on your machine you can run the following code:**
-> `hugo server --buildDrafts`
-
-*I use the option --buildDrafts to build all blog posts no matter what the status of the draft property is in the file.*
-
-**You can set the draft property to true so your post isn't live until you change the value.**
-> `draft: true`

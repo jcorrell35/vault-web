@@ -5,22 +5,21 @@ title: New York Bagels
 draft: false
 ---
 
-![[bagels.jpg]]
-**Yield:** (8) Bagels
-**Hydration:** 58%
-
+![[images/bagels.jpg]]  
+**Yield:** (8) Bagels  
+**Hydration:** 58%  
 # Ingredients
 ##### Water/Yeast:
-> **Water:** 310g (100°-110°F) *(maybe try 320-330g)*
-> **Yeast:** 3/4 packet (5g)
-> **Sugar:** 1 tbsp (12-15g)
+> **Water:** 310g (100°-110°F) *(maybe try 320-330g)*  
+> **Yeast:** 3/4 packet (5g)  
+> **Sugar:** 1 tbsp (12-15g)  
 ##### Flour/Salt:
-> **Flour:** 500g
-> **Salt:** 2 tsp (11g)
+> **Flour:** 500g  
+> **Salt:** 2 tsp (11g)  
 ##### Water Bath:
-> **Water**: Fill pot halfway
-> **Sugar:** 3 tbsp (45g)
-> **Baking Soda:** 1 tsp
+> **Water**: Fill pot halfway  
+> **Sugar:** 3 tbsp (45g)  
+> **Baking Soda:** 1 tsp  
 
 # Directions
 ##### Dough:
