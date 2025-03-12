@@ -4,7 +4,7 @@ date: 2025-02-24
 title: Creating a Github Site with Hugo
 draft: false
 ---
-*This page is sort of outdated, it was the original way I was developing and deploying the website. It was originally called "This Website" and I was discussing how I built this website. I now use Obsidian to publish this site: [[Using Obsidian, Quartz, and Github Pages to Setup a Simple Static Website]].* Here is the [link](https://jcorrell35.github.io/life-repository) to my old website if you are curious.
+> *This page is sort of outdated, it was the original way I was developing and deploying the website. It was originally called "This Website" and I was discussing how I built this website. I now use Obsidian to publish this site: [[Using Obsidian, Quartz, and Github Pages to Setup a Simple Static Website]].* Here is the [link](https://jcorrell35.github.io/life-repository) to my old website if you are curious.
 
 This website is built with [Hugo](https://gohugo.io), using the [Terminal](https://github.com/panr/hugo-theme-terminal/) theme.
 
@@ -24,7 +24,8 @@ echo "theme = 'ananke'" >> hugo.yaml
 
 I ran into some issues using this method when it came to deploying the site to GitHub. Therefore I decided to go with a different method for implementing the theme. Which was copying the files from the theme folder into the base directory:  
 ![Files](images/filesystem.png)  
-> **NOTE:** *This works, however if you want to change the theme at some point it becomes more difficult than just changing it in the hugo.yaml file.*
+> [!warning] 
+> This method does work, however if you want to change the theme at some point it becomes more difficult than just changing it in the hugo.yaml file.
 
 The next step was to implement a simple menu system for the website's navigation:  
 ```yaml=
@@ -71,7 +72,8 @@ Finally, to run the website locally on your machine you can run the following co
 hugo server --buildDrafts
 ```
 
-> **NOTE:** *I used the option --buildDrafts to build all blog posts no matter what the status of the draft property is in the file.*
+> [!note]
+> I used the option --buildDrafts to build all blog posts no matter what the status of the draft property is in the file.*
 
 Also, you can set the draft property to true so your post isn't live until you change the value. 
 ```yaml=

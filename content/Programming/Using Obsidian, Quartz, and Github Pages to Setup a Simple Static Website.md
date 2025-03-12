@@ -4,7 +4,7 @@ date: 2025-02-28
 title: Using Obsidian, Quartz, and Github Pages to Setup a Simple Static Website
 draft: false
 ---
-This is the current way I am building this site. If you are interested in a different method, this was the old way that I built this site: [[Creating a Github Site with Hugo]]
+> This is the current way I am building this site. If you are interested in a different method, this was the old way that I built this site: [[Creating a Github Site with Hugo]]
 
 Here is a [great resource for setting up a website with Obsidian](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages). for setting up a website with Obsidian. Quartz is a static-site generator that turns markdown files (Obsidian notes) and turns them into a static website. I deployed the site using Github Pages.
 
@@ -25,7 +25,8 @@ git push -u origin v4
 
 For some reason when i would run `npx quartz sync` nothing would happen to my website. After 2 hours of trying to figure it out I just had to run the two git push commands afterwards for it to finally work... I might have to look at some of the code that sync runs to see if it runs those two commands correctly.
 
-***Note:** To run the server locally just run* `npx quartz build --serve`.
+> [!note]
+> To run the server locally just run `npx quartz build --serve`.
 ### Current Setup
 - Obsidian with Obsidian Sync
 - Quartz for static-site generation.

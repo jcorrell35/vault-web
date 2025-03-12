@@ -9,12 +9,15 @@ draft: false
 | ---------- | -------------- | ------ |
 | Mac Miller | *Balloonerism* | 92     |
 | FKA Twigs  | *Eusexua*      | 92     |
+| Lady Gaga  | *Mayhem*       | 87     |
 
 #### EPs
 
-| Artist | Title          | Rating |
-| ------ | -------------- | ------ |
-| Swans  | *I Am a Tower* | 98     |
+| Artist    | Title          | Rating |
+| --------- | -------------- | ------ |
+| Swans     | *I Am a Tower* | 98     |
+| Lady Gaga | *Abracadabra*  | 96     |
+| Lady Gaga | *Disease*      | 94     |
 
 #### Singles
 

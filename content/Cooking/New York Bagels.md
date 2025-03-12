@@ -40,5 +40,5 @@ draft: false
  
  ##### Baking Instructions:
 4. Bake on 450°F for 10 minutes, flip, bake for another 6 minutes.
-5. Possibly Broil for 3 minutes if not browned on top.
-6. Let sit for 10 minutes on rack.
+5. Possibly Broil for 2 minutes if not browned on top.
+6. Let sit for 10 minutes on rack before eating.
