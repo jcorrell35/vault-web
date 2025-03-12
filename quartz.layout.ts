@@ -17,6 +17,8 @@ export const sharedPageComponents: SharedLayout = {
         category: 'Announcements',
         // from data-category-id
         categoryId: 'DIC_kwDOOCEtAs4Cn4Bc',
+        // no reactions
+        reactionsEnabled: false,
       }
     }),
   ],
