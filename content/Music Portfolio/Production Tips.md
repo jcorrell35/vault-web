@@ -1,6 +1,7 @@
 ---
-description: My tips for music production
 title: Production Tips
+description: My tips for music production
+date: 
 draft: false
 ---
 **Some production lessons/tips that I have learned along the way:**

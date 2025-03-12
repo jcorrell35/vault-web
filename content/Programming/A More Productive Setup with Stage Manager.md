@@ -1,8 +1,8 @@
 ---
+title: A More Productive Setup with Stage Manager
 description: Using Better Touch Tool to increase productivity
 date: 2025-02-25
 draft: false
-title: A More Productive Setup with Stage Manager
 ---
 I often like to have two sets/groups of window screens. One for the development environment with my Notes/VS Code and one for the “end-user environment” with Chrome and Terminal for running Hugo’s local server and viewing my website.
 

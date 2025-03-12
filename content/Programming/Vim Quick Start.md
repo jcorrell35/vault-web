@@ -1,7 +1,8 @@
 ---
 title: Vim Quick Start
-draft: false
 description: Vim Quick Start for Noobies like me
+date: 
+draft: false
 ---
 
 | Key Bind | Command Action                                   |

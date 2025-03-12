@@ -1,8 +1,8 @@
 ---
 title: VPN Setup with ProtonVPN
+description: Starting my possibly short-lived networking journey
 date: 2025-03-09
 draft: false
-description: Starting my possibly short-lived networking journey
 ---
 #### Early Mistakes
 In my past I have done very little with networking and I didn’t understood anything about it pretty much. I only knew about port forwarding from setting up a Minecraft server which my dad helped me do 12 years ago and i cant remember what we did.

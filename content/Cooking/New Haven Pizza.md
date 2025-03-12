@@ -1,7 +1,7 @@
 ---
 title: New Haven Pizza
-date: 2025-02-19
 description: Delicious pizza recipe based on New Haven style Pizza
+date: 2025-02-19
 draft: false
 ---
 ![[images/pizza.jpg]]  

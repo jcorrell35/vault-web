@@ -1,7 +1,7 @@
 ---
-date: 2025-02-09
-description: Horrible drinking game for any football game and some thoughts on the Super Bowl
 title: Super Bowl LIX Drinking Game and Notes
+description: Horrible drinking game for any football game and some thoughts on the Super Bowl
+date: 2025-02-09
 draft: false
 ---
 #### Drinking Game

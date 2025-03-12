@@ -1,7 +1,7 @@
 ---
-date: 2025-03-02
-description: Delicious bagel recipe (Still in progress)
 title: New York Bagels
+description: Delicious bagel recipe (Still in progress)
+date: 2025-03-02
 draft: false
 ---
 

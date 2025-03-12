@@ -9,3 +9,4 @@ tsconfig.tsbuildinfo
 PRIVATE/
 .replit
 replit.nix
+template/

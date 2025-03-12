@@ -1,16 +1,28 @@
 ---
-description: Home page, layout page
+title: Title goes here
+description: "Home page, layout page, future idea: jntweb.com or jntvault.com"
 date: 2025-02-28
-title: Welcome to My Site
+draft: false
+tags: 
+comments: "false"
 ---
 Welcome to my page! Hi, my name is Jarrod. I have made this site for a few different reasons. I wanted to have a place where all of my Wife and I’s adventures are, memories, projects that I/we have worked on, my music, other art, lots of pictures, and to also write some helpful/teaching articles on certain topics.
+
+*Feel free to comment on posts with questions, suggestions, or personal experiences of your own. To get started jump into a category in the Quick Links or take a look at the site map.*
+##### Quick Links:
+> [Tech & Programming Portfolio](https://jcorrell35.github.io/vault-web/Programming/)  
+> [Music Portfolio](https://jcorrell35.github.io/vault-web/Music-Portfolio/)  
+> [Traveling](https://jcorrell35.github.io/vault-web/Traveling/)  
+> [Music Collection](https://jcorrell35.github.io/vault-web/Music-Collection/)  
+> [Cooking](https://jcorrell35.github.io/vault-web/Cooking/)  
+> [Fun](https://jcorrell35.github.io/vault-web/Fun/)    
+------
 ### TECH & PROGRAMMING PORTFOLIO
 - [[A More Productive Setup with Stage Manager]]
 - [[Creating a Github Site with Hugo]].
 - [[Using Obsidian, Quartz, and Github Pages to Setup a Simple Static Website]]
 - [[Vim Quick Start]]
 - [[VPNs, Home server setup, starting my networking journey]]
-	- ThinkPad Upgrades
 - [CAPTR - A game made with React (Frontend) and Google Firebase (Backend)](https://github.com/jcorrell35/captr-game/) 
 
 ### MUSIC PORTFOLIO
@@ -75,10 +87,10 @@ Welcome to my page! Hi, my name is Jarrod. I have made this site for a few diffe
 - Overall Top Listens (All-Time)
 - Overall Top Listens (1960s)
 - Overall Top Listens (1970s)
-- Overall Top Listens (1980s)
-- Overall Top Listens (1990s)
-- Overall Top Listens (2010s)
-- Overall Top Listens (2020s)
+- [[Overall Top Listens (1980s)]]
+- [[Overall Top Listens (1990s)]]
+- [[Overall Top Listens (2010s)]]
+- [[Overall Top Listens (2020s)]]
 - [[2024 Listens]]
 - [[2025 Listens]]
 ### COOKING

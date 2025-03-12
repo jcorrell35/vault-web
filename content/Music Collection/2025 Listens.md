@@ -1,6 +1,7 @@
 ---
-description: Top listens for releases that came out in 2025
 title: 2025 Listens
+description: Top listens for releases that came out in 2025
+date: 
 draft: false
 ---
 #### LPs
@@ -9,20 +10,17 @@ draft: false
 | ---------- | -------------- | ------ |
 | Mac Miller | *Balloonerism* | 92     |
 | FKA Twigs  | *Eusexua*      | 92     |
-| Lady Gaga  | *Mayhem*       | 87     |
-
+| Lady Gaga  | *Mayhem*       | 85     |
 #### EPs
 
-| Artist    | Title          | Rating |
-| --------- | -------------- | ------ |
-| Swans     | *I Am a Tower* | 98     |
-| Lady Gaga | *Abracadabra*  | 96     |
-| Lady Gaga | *Disease*      | 94     |
-
+| Artist | Title          | Rating |
+| ------ | -------------- | ------ |
+| Swans  | *I Am a Tower* | 98     |
 #### Singles
 
-| Artist | Title | Rating |
-| ------ | ----- | ------ |
-|        |       |        |
+| Artist    | Title         | Rating |
+| --------- | ------------- | ------ |
+| Lady Gaga | *Abracadabra* | 96     |
+| Lady Gaga | *Disease*     | 94     |
 
 
