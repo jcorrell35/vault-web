@@ -32,7 +32,7 @@ Welcome to my page! Hi, my name is Jarrod. I have made this site for a few diffe
 - [[7.1.2021 - 8.6.2021 (2021 Roadtrip)]]
 - [[8.7.2021 - 8.8.2021 (2021 Roadtrip)]]
 - [[8.9.2021 (2021 Roadtrip)]]
-- 8/10/21 - 8/11/21 (2021 Roadtrip) (Our first time in Colorado!)
+- [[8.10.21 - 8.11.21 (2021 Roadtrip) (Our first time in Colorado!)]]
 - 8/12/21 - 8/15/21 (2021 Roadtrip)(Arizona and Utah)
 - 8/16/21 - 8/17/21 (2021 Roadtrip) (Wyoming and sort of Montana)
 - 8/18/21 - 8/21/21 (2021 Roadtrip) (Driving home :()
