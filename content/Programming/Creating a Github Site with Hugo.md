@@ -12,7 +12,7 @@ Hugo takes [Markdown](https://www.markdownguide.org/) files and turns them into 
 
 For my site I went with the Terminal theme. I also decided to use the yaml format for the syntax files. For that, I renamed the default hugo.toml file to hugo.yaml and [changed the syntax to the yaml format](https://he3.app/en/blogs/yaml-to-toml-a-comprehensive-guide-for-developers/).
 
-#### Usual setup for a project looks something like this:
+### Usual setup for a project looks something like this:
 ----------
 ```shell=
 hugo new site quickstart && cd quickstart

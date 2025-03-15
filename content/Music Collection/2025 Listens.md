@@ -4,19 +4,19 @@ description: Top listens for releases that came out in 2025
 date: 
 draft: false
 ---
-#### LPs
+### LPs
 
 | Artist     | Title          | Rating |
 | ---------- | -------------- | ------ |
 | Mac Miller | *Balloonerism* | 92     |
 | FKA Twigs  | *Eusexua*      | 92     |
 | Lady Gaga  | *Mayhem*       | 85     |
-#### EPs
+### EPs
 
 | Artist | Title          | Rating |
 | ------ | -------------- | ------ |
 | Swans  | *I Am a Tower* | 98     |
-#### Singles
+### Singles
 
 | Artist    | Title         | Rating |
 | --------- | ------------- | ------ |

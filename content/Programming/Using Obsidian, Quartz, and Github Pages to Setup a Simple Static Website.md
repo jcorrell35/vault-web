@@ -16,14 +16,13 @@ After running this command to publish my changes:
 npx quartz sync
 ```
 
-I also had to add the following two lines afterwards: 
+I also had to add the following line afterwards: 
 
 ```shell=
 git push -u origin main
-git push -u origin v4
 ```
 
-For some reason when i would run `npx quartz sync` nothing would happen to my website. After 2 hours of trying to figure it out I just had to run the two git push commands afterwards for it to finally work... I might have to look at some of the code that sync runs to see if it runs those two commands correctly.
+For some reason when i would run `npx quartz sync` nothing would happen to my website. After 2 hours of trying to figure it out I just had to run the git push command afterwards for it to finally work... I might have to look at some of the code that `sync` runs to see if it run this command correctly.
 
 > [!note]
 > To run the server locally just run `npx quartz build --serve`.
