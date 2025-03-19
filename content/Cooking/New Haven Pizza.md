@@ -6,21 +6,26 @@ draft: false
 ---
 ![[images/pizza.jpg]]  
 **Yield:** (1) 13" Pizzas  
-**Hydration:** 68%  
+**Hydration:** ~70%  
 ##### Ingredients:
-> **Flour**: 140g
-> **Salt**: 3.5g 
-> **Yeast**: 1g
-> **Water**: 95g
-
+> **Flour**: 170g
+> **Salt**: 4g 
+> **Yeast**: 2g
+> **Water**: 115-120g (68%-71%)
+##### How to make the dough (video):
 [Youtube: The Pizza Gavones](https://youtu.be/caqAXi4mOy8?si=sBWHMzP5nwNI04aa)
 ##### Directions:
 1. Combine ingredients into mixer bowl. (Water, Yeast, Flour, Salt)
 2. Mix on low for 5-10 minutes, kneed with hands if less time.
-3. Roll into ball, leave in sealed Tupperware for 48-72 hours in the fridge.
-4. Before making pizzas, place dough on sheet pan sprayed and let sit (room temp) for 5 hours.
-5. Place dough on floured surface and stretch. [Youtube: The Pizza Gavones](https://www.youtube.com/watch?v=8qgbp9llbWE). Transfer to prep surface.
-6. Put toppings on pizza.
+3. Roll into ball, leave in lightly-oiled sealed Tupperware for 48-72 hours in the fridge.
+4. Before making pizzas, place dough on sheet pan sprayed and let sit (room temp) for 4 hours.
+5. Place in oven with light on for 1 hour.
+6. See Baking Instructions for preheat instructions
+7. Place dough on floured wood peel surface and stretch. [Youtube: The Pizza Gavones](https://www.youtube.com/watch?v=8qgbp9llbWE).
+8. Transfer pizza from wood peel into oven on pizza steel.
+9. Put toppings on pizza.
 ##### Baking Instructions:
-- **Sheet Pan:** Preheat to 525 (Switch racks every 10 minutes). Once good structure, broil 3 minutes.
-- **Pizza Steel/Stone:** Preheat to 500-550 (1 hour). Bake 5 minutes, spin every 1.5 minutes. Broil finish
+1. Preheat oven for 1 hour on 525-550 with pizza steel on 3rd rack from the top (about 8-9" from the broiler).
+2. Transfer pizza from peel to pizza steel.
+3. Bake for 8-12 minutes, flipping every 3-4 minutes (might need to adjust this, watch it).
+4. Broil for 2-4 minutes (need to keep a close eye on this).
