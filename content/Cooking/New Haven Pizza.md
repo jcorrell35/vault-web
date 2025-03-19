@@ -8,10 +8,10 @@ draft: false
 **Yield:** (1) 13" Pizzas  
 **Hydration:** ~70%  
 ##### Ingredients:
-> **Flour**: 170g
-> **Salt**: 4g 
-> **Yeast**: 2g
-> **Water**: 115-120g (68%-71%)
+> **Flour**: 170g  
+> **Salt**: 4g  
+> **Yeast**: 2g  
+> **Water**: 115-120g (68%-71%)  
 ##### How to make the dough (video):
 [Youtube: The Pizza Gavones](https://youtu.be/caqAXi4mOy8?si=sBWHMzP5nwNI04aa)
 ##### Directions:
