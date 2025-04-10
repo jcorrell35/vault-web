@@ -1,5 +1,5 @@
 ---
-title: New York Bagels
+title: New York Bagels Recipe
 description: Delicious bagel recipe (Still in progress)
 date: 2025-03-02
 draft: false
@@ -7,20 +7,20 @@ draft: false
 
 ![[images/bagels.jpg]]  
 **Yield:** (8) Bagels  
-**Hydration:** 58%  
+**Hydration:** 60%  
 # Ingredients
 ##### Water/Yeast:
-> **Water:** 310g (100°-110°F) *(maybe try 320-330g)*  
-> **Yeast:** 3/4 packet (5g)  
-> **Sugar:** 1 tbsp (12-15g)  
+> **Water:** 300-310g (105-110°F) *(try 320g if you want an airy bagel)*  
+> **Active Dry Yeast:** 5g  
+> **Sugar:** 12-15g  
 ##### Flour/Salt:
 > **Flour:** 500g  
-> **Salt:** 2 tsp (11g)  
+> **Dough Improver (Optional):** 14g (3%)  
+> **Salt:** 11g  
 ##### Water Bath:
-> **Water**: Fill pot halfway  
-> **Sugar:** 3 tbsp (45g)  
+> **Water**: Fill pot halfway    
+> **Sugar:** 45g  
 > **Baking Soda:** 1 tsp  
-
 # Directions
 ##### Dough:
 1. Mix **Water (100°-110°F)** with **Yeast** and **Sugar**.
@@ -42,3 +42,12 @@ draft: false
 4. Bake on 450°F for 10 minutes, flip, bake for another 6 minutes.
 5. Possibly Broil for 2 minutes if not browned on top.
 6. Let sit for 10 minutes on rack before eating.
+# Log
+
+| Date | Water | Flour | Salt | Sugar | Yeast | Dough Improver | Notes                                                                                                                                                                                                                                                                                                                                                                                                       |     |
+| ---- | ----- | ----- | ---- | ----- | ----- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 3/29 | 306g  | 500g  | 11g  | 12g   | 5g    | 0g             | Proofing: Room temperature for 2 hours, Fridge for 12 hours, Room temperature for 2 hours, Roll into balls and place on baking sheet, let rest in oven for 2 hours (WAY OVERPROOFED (due to letting rest in oven for 2 hours)). For next time do everything except don't let rest in oven for 2 hours (15-30 minutes instead (while oven preheats)). Baked for 8 minutes, flip, baked for another 6 minutes |     |
+| 4/6  | 309g  | 499g  | 12g  | 12g   | 5g    | 14g            | Water temp 106-108 degrees. Mix on .5-1 for 3 minutes, 1.5-2 for 2 minutes, 2.5-3 for 1 minute. Rest for 2 hours. Roll into balls, rest in oven from 12:05-12:55 (a little overproofed) (30 minutes next time). 450 degrees, 8 min, flip, 2 min, flip, 2 min broil (lo)                                                                                                                                     |     |
+|      |       |       |      |       |       |                |                                                                                                                                                                                                                                                                                                                                                                                                             |     |
+
+

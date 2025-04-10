@@ -4,17 +4,17 @@ description: Top listens for releases that came out in the 1960s
 date: 
 draft: false
 ---
-#### LPs
+# LPs
 
 | Artist                        | Title                         | Rating |
 | ----------------------------- | ----------------------------- | ------ |
 | The Velvet Underground & Nico | The Velvet Underground & Nico | 100    |
-#### EPs
+# EPs
 
 | Artist | Title | Rating |
 | ------ | ----- | ------ |
 |        |       |        |
-#### Singles
+# Singles
 
 | Artist | Title | Rating |
 | ------ | ----- | ------ |

@@ -7,18 +7,18 @@ draft: false
 ![[images/pizza.jpg]]  
 **Yield:** (1) 13" Pizzas  
 **Hydration:** ~70%  
-##### Ingredients:
-> **Flour**: 170g  
-> **Salt**: 4g  
-> **Yeast**: 2g  
-> **Water**: 115-120g (68%-71%)  
+# Ingredients:
+> **Flour**: 181g  
+> **Salt**: 5g  
+> **Instant Yeast**: 1g  
+> **Water**: 126g (68%-71%)  
 ##### How to make the dough (video):
 [Youtube: The Pizza Gavones](https://youtu.be/caqAXi4mOy8?si=sBWHMzP5nwNI04aa)
-##### Directions:
+# Directions:
 1. Combine ingredients into mixer bowl. (Water, Yeast, Flour, Salt)
 2. Mix on low for 5-10 minutes, kneed with hands if less time.
 3. Roll into ball, leave in lightly-oiled sealed Tupperware for 48-72 hours in the fridge.
-4. Before making pizzas, place dough on sheet pan sprayed and let sit (room temp) for 4 hours.
+4. Before making pizzas, let sit in room temperature for 3 hours then place dough on sheet pan sprayed and let sit (room temp) for 1 hour, or until ready to be shaped.
 5. Place in oven with light on for 1 hour.
 6. See Baking Instructions for preheat instructions
 7. Place dough on floured wood peel surface and stretch. [Youtube: The Pizza Gavones](https://www.youtube.com/watch?v=8qgbp9llbWE).

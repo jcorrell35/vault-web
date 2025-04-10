@@ -1,10 +1,10 @@
 ---
-title: VPN Setup with ProtonVPN
+title: VPNs, Home router setup, starting my networking journey
 description: Starting my possibly short-lived networking journey
 date: 2025-03-09
 draft: false
 ---
-### Early Mistakes
+# Early Mistakes
 In my past I have done very little with networking and I didn’t understood anything about it pretty much. I only knew about port forwarding from setting up a Minecraft server which my dad helped me do 12 years ago and i cant remember what we did.
 
 So my revived journey starts with [ProtonVPN](https://protonvpn.com/)and discovering what a VPN actually does. I understand now that ProtonVPN allows my device to connect to an external server somewhere in the world. When I first was learning about VPNs I thought it was your own private server somewhere in the world and all your devices could connect to it kind of like you would connecting them to your own home server. Looking back I have no idea why I thought that when I knew it was a PRIVATE connection to a server that many other people are also connected to. It took me until I downloaded the VPNs on all my devices and finding out from a [reddit post](https://www.reddit.com/r/ProtonVPN/s/F4OaqhGNAl) that I couldn’t connect my devices together because that’s not what ProtonVPN does… I felt a little dumb after reading that. 
@@ -12,7 +12,7 @@ So my revived journey starts with [ProtonVPN](https://protonvpn.com/)and discove
 My ultimate goal is to set up a home server so I can store pictures, music, and all types of media and files that I can share between by devices on the server. I also want to be able to set up port forwarding so that I can use Soulseek to share files with other users. Using a VPN was not exactly what I needed to do this. Although there was a VPN that supported port-forwarding ([AirVPN](https://airvpn.org/), Proton VPN, and some others check out [this post](https://www.reddit.com/r/TheVpnEng/s/vrBWHlNFJb))and I figured I could posssiblyyyy set up file transferring using that port between my devices… maybe? I had a quick conversation with my Dad and realized I was not doing what I wanted to do.
 
 Instead, I decided to go with the traditional method of doing all of this which is to set up my own router in my apartment so that one, all of our devices are secured from the rest of the “public” apartment internet, and two, be able to connect those devices together locally and setup port forwarding. I also decided I will be using [OpenWRT](https://openwrt.org/) for the firmware on the router (I'll discuss this in the next section).
-### Purchasing a Router that is compatible with OpenWRT
+# Purchasing a Router that is compatible with OpenWRT
 When looking for a router I came across the popular option on Amazon which was the brand [TP-Link](https://www.tp-link.com/us/). The only issue with them is that they had a vulnerability issue ([according to the US government](https://www.wired.com/story/tp-link-router-ban-investigation/) and a [youtube video](https://www.youtube.com/watch?v=clESYc9BDvc&ab_channel=MattBrown) I watched by [Matt Brown](https://www.youtube.com/@mattbrwn) on hacking the device. I did some reading on it and people were mixed saying it could just be because it's a Chinese company, others say there are legitimate security implications. If you currently have one of these devices I would recommend ([if supported](https://openwrt.org/supported_devices)) to try out installing [OpenWRT](https://openwrt.org/downloads) firmware on your router to increase the security. Not only is OpenWRT firmware updated much more than the TP-Link firmware, OpenWRT is also open-source. If you need some assistance on installing this firmware take a look at [this video to](https://www.youtube.com/watch?v=pa7VhElcExI&t=86s&ab_channel=Krisseck) get started, or [this video](https://www.youtube.com/watch?v=7cxiYmn3OTU&t=190s&ab_channel=VanTechCorner) for a complete overview of the features that OpenWRT offers.
 
-I ended up going with the NETGEAR R6700v2 which ran me about $25 on eBay.
+I ended up going with the NETGEAR R6700v2 which ran me about $25 on eBay. My next post talks about setting up the router and using samba to set up a simple home server.

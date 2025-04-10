@@ -4,19 +4,19 @@ description: Top listens for releases that came out in 2024
 date: 
 draft: false
 ---
-### LPs
+# LPs
 
 | Artist          | Title              | Rating |
 | --------------- | ------------------ | ------ |
 | Magdalena Bay   | Imaginal Disk      | 99     |
 | Rafael Toral    | Spectral Evolution | 90     |
 | Porter Robinson | Smile              | 90     |
-### EPs
+# EPs
 
 | Artist | Title | Rating |
 | ------ | ----- | ------ |
 |        |       |        |
-### Singles
+# Singles
 
 | Artist          | Title            | Rating |
 | --------------- | ---------------- | ------ |

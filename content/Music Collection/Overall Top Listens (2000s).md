@@ -4,17 +4,17 @@ description: Top listens for releases that came out in the 2000s
 date: 
 draft: false
 ---
-#### LPs
+# LPs
 
 | Artist | Title | Rating |
 | ------ | ----- | ------ |
 |        |       |        |
-#### EPs
+# EPs
 
 | Artist | Title | Rating |
 | ------ | ----- | ------ |
 |        |       |        |
-#### Singles
+# Singles
 
 | Artist | Title | Rating |
 | ------ | ----- | ------ |

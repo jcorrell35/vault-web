@@ -4,17 +4,17 @@ description: Top listens for releases that came out in the 1970s
 date: 
 draft: false
 ---
-#### LPs
+# LPs
 
 | Artist                   | Title       | Rating |
 | ------------------------ | ----------- | ------ |
 | The Allman Brothers Band | Eat a Peach | 90     |
-#### EPs
+# EPs
 
 | Artist | Title | Rating |
 | ------ | ----- | ------ |
 |        |       |        |
-#### Singles
+# Singles
 
 | Artist | Title | Rating |
 | ------ | ----- | ------ |

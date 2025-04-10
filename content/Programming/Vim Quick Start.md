@@ -4,6 +4,7 @@ description: Vim Quick Start for Noobies like me
 date: 
 draft: false
 ---
+# Quick Start Key Binds for VIM
 
 | Key Bind | Command Action                                   |
 | -------- | ------------------------------------------------ |

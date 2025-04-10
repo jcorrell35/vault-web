@@ -4,17 +4,17 @@ description: Top listens for releases that came out in the 2010s
 date: 
 draft: false
 ---
-#### LPs
+# LPs
 
 | Artist    | Title     | Rating |
 | --------- | --------- | ------ |
 | FKA Twigs | Magdalene | 93     |
-#### EPs
+# EPs
 
 | Artist | Title | Rating |
 | ------ | ----- | ------ |
 |        |       |        |
-#### Singles
+# Singles
 
 | Artist    | Title      | Rating |
 | --------- | ---------- | ------ |

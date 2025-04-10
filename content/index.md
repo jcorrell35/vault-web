@@ -22,9 +22,9 @@ Welcome to my page! Hi, my name is Jarrod. I have made this site for a few diffe
 - [[Creating a Github Site with Hugo]].
 - [[Using Obsidian, Quartz, and Github Pages to Setup a Simple Static Website]]
 - [[Vim Quick Start]]
-- [[VPNs, Home server setup, starting my networking journey]]
-- [CAPTR - A game made with React (Frontend) and Google Firebase (Backend)](https://github.com/jcorrell35/captr-game/) 
-
+- [[VPNs, Home router setup, starting my networking journey]]
+- [[Simple Home Server Setup with Samba (and OpenWRT)]]
+- [CAPTR - A game made with React (Frontend) and Google Firebase (Backend)](https://github.com/jcorrell35/captr-game/)
 ### MUSIC PORTFOLIO
 * [[Music Portfolio]]
 * [[Production Tips]]
@@ -97,6 +97,8 @@ Welcome to my page! Hi, my name is Jarrod. I have made this site for a few diffe
 ### COOKING
 - [[New Haven Pizza]]
 - [[New York Bagels]]
+- [[Artisan Bread]]
+- [[Cashew Butter]]
 ### FUN
 - [[Super Bowl LIX Drinking Game and Notes]]
 ### PROJECTS (HAVEN'T ADDED YET)
