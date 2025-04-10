@@ -1,6 +1,6 @@
 ---
-title: Simple Home Server Setup with Samba
-description: Simple Home Server Setup with Samba
+title: Simple Home Server Setup with Samba (and OpenWRT)
+description: Simple Home Server Setup with Samba (and OpenWRT)
 date: 2025-04-02
 draft: false
 ---
