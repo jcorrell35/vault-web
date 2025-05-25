@@ -10,13 +10,13 @@ draft: false
 **Hydration:** 60%  
 # Ingredients
 ##### Water/Yeast:
-> **Water:** 300-310g (105-110°F) *(try 320g if you want an airy bagel)*  
+> **Water:** 310g (105-110°F)  
 > **Active Dry Yeast:** 5g  
 > **Sugar:** 12-15g  
 ##### Flour/Salt:
-> **Flour:** 500g  
-> **Dough Improver (Optional):** 14g (3%)  
-> **Salt:** 11g  
+> **Flour:** 500g (485g if using Dough Improver)  
+> **Dough Improver (Optional, substitutes Flour):** 15g  
+> **Salt:** 12g  
 ##### Water Bath:
 > **Water**: Fill pot halfway    
 > **Sugar:** 45g  
@@ -25,7 +25,7 @@ draft: false
 ##### Dough:
 1. Mix **Water (100°-110°F)** with **Yeast** and **Sugar**.
 2. Once mixture is frothy add **Flour** and **Salt**
-3. Mix on low for 5-8 minutes.
+3. Mix on .5-1 for 3 minutes, 1.5-2 for 2 minutes, 2.5-3 for 1 minute.
 4. Place in a lightly oiled/greased bowl (covered).
 5. Proof in oven with light on for 1-2 hours. (punch dough down halfway through)
 6. Cut into 8-10 pieces and roll into balls.
@@ -39,9 +39,8 @@ draft: false
 3. Alternate spreading on each bagel between **Egg Wash** and **Everything Bagel Seeds**.
  
  ##### Baking Instructions:
-4. Bake on 450°F for 10 minutes, flip, bake for another 6 minutes.
-5. Possibly Broil for 2 minutes if not browned on top.
-6. Let sit for 10 minutes on rack before eating.
+4. Bake on 450°F for 8 minutes, flip, bake for another 4-6 minutes, flip, broil (lo) for 2 minutes or until browned to liking).
+5. Let sit for 10 minutes on rack before eating.
 # Log
 
 | Date | Water                         | Flour | Salt  | Sugar | Yeast | Dough Improver                            | Notes                                                                                                                                                                                                                                                                                                                                                                                                       |     |
