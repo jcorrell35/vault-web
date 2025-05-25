@@ -8,7 +8,7 @@ comments: "true"
 links: https://www.smithsonianmag.com/arts-culture/what-makes-whole-grain-bread-so-hard-to-bake-63878/
 ---
 **Yield:** (14) slices  
-**Hydration:** 65% 
+**Hydration:** 65%  
 ##### Ingredients:
 > **Flour**: 500g  
 > **Salt**: 8.5g  
