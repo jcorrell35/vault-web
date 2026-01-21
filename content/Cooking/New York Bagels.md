@@ -10,13 +10,13 @@ draft: false
 **Hydration:** 60%  
 # Ingredients
 ##### Water/Yeast:
-> **Water:** 310g (105-110°F)  
-> **Active Dry Yeast:** 5g  
-> **Sugar:** 12-15g  
+> **Water:** 620g (105-110°F)  
+> **Active Dry Yeast:* 15g   
+> **Sugar:** 30g  
 ##### Flour/Salt:
-> **Flour:** 500g (485g if using Dough Improver)  
-> **Dough Improver (Optional, substitutes Flour):** 15g  
-> **Salt:** 12g  
+> **Flour:** 1000g (970g if using Dough Improver)  
+> **Dough Improver (Optional, substitutes Flour):** 30g  
+> **Salt:** 25g
 ##### Water Bath:
 > **Water**: Fill pot halfway    
 > **Sugar:** 45g  
@@ -28,7 +28,7 @@ draft: false
 3. Mix on .5-1 for 3 minutes, 1.5-2 for 2 minutes, 2.5-3 for 1 minute.
 4. Place in a lightly oiled/greased bowl (covered).
 5. Proof in oven with light on for 1-2 hours. (punch dough down halfway through)
-6. Cut into 8-10 pieces and roll into balls.
+6. Cut into 16-20 pieces and roll into balls.
 7. Place balls on floured sheet pan and let rest for 30 minutes.
 ##### Boil:
 1. Mix together **Water**, **Sugar**, and **Baking Soda** in a large pot
@@ -39,7 +39,7 @@ draft: false
 3. Alternate spreading on each bagel between **Egg Wash** and **Everything Bagel Seeds**.
  
  ##### Baking Instructions:
-4. Bake on 450°F for 8 minutes, flip, bake for another 4-6 minutes, flip, broil (lo) for 2 minutes or until browned to liking).
+4. Bake on 450°F for 8 minutes, flip, bake for another 4-6 minutes, flip, broil (lo) for 2 minutes or until browned to liking. 
 5. Let sit for 10 minutes on rack before eating.
 # Log
 
